@@ -77,7 +77,7 @@ From this step on, leave a field blank if not mentioned in this manual (In that 
 + **Homepage URL**: As appropriate, e.g., <https://acl2018.org/> for ACL 2018.
  
 + **What is the start year (of current title)**: 
-  + Use the following ones if your conference is in the list: **ACL: 1962**, **EMNLP: 1996**.
+  + Use the following ones if your conference is in the list: **ACL: 1962**, **EMNLP: 1996**, **NAACL: 2000**.
   + If your conference is not in the list, try wiki it.
  
 + **Publisher contact name**:	Matt Post
